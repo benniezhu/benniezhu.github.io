@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>https://benniezhu.github.io/publication-type/2/</link>
+      <atom:link href="https://benniezhu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 01:13:26 -0500</lastBuildDate>
+    <image>
+      <url>https://benniezhu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://benniezhu.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The Political Culture of Asian Brazilians</title>
+      <link>https://benniezhu.github.io/publication/asianbrazil/</link>
+      <pubDate>Mon, 04 Jul 2022 01:13:26 -0500</pubDate>
+      <guid>https://benniezhu.github.io/publication/asianbrazil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
